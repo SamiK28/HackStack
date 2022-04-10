@@ -14,7 +14,7 @@ npm run start
 
 ```
 ## Screenshots
-<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(1).jpeg" height="400em" />
-<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(2).jpeg" height="400em" />
-<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(3).jpeg" height="400em" />
-<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(4).jpeg" height="400em" />
+<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(1).jpeg" height="550em" />
+<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(2).jpeg" height="550em" />
+<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(3).jpeg" height="550em" />
+<img src="https://github.com/SamiK28/HackStack/blob/main/Frontend/ss/ss(4).jpeg" height="550em" />

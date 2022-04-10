@@ -1,0 +1,16 @@
+.rec.rec-arrow.rec.rec-arrow-left:hover{
+    background-color: #FD507E
+}
+.rec.rec-arrow.rec.rec-arrow-right:hover{
+    background-color: #FD507E
+}
+.rec.rec-dot:hover{
+    /* background-color: #FD507E */
+}
+.rec.rec-dot_active{
+    /* background-color: #FD507E; */
+    box-shadow: black;
+}
+.rec.rec-arrow:disabled {
+    visibility: hidden;
+}

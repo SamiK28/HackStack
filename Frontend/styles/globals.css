@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .navtab{
+        @apply text-gray-500 py-6 px-8 text-xl hover:cursor-pointer hover:bg-gray-100
+    }
+    .inact {
+        @apply p-3 mx-2 text-[#6E6D7A] hover:font-bold hover:bg-[#F6F4F4] hover:rounded-lg hover:cursor-pointer;
+    }
+    .act{
+        @apply p-3 mx-2 text-[#6E6D7A] font-bold bg-[#F6F4F4] rounded-lg cursor-pointer
+    }
+}

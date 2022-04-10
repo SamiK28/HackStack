@@ -8,10 +8,9 @@ export default function Search() {
 
     const handleSubmit = async (event) => {
         event.preventDefault();
-        const name = event.target.search.value;
         const res = await fetch('/api/search', {
             body: JSON.stringify({
-                name: name,
+                name: resultName,
             }),
             headers: {
                 'Content-Type': 'application/json',
@@ -19,7 +18,6 @@ export default function Search() {
             method: 'POST',
         });
         const result = await res.json();
-        // setResultName(result.name);
         router.push({ pathname: '/result/[rid]', query: { rid: resultName } });
     }
     return (
